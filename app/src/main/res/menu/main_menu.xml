@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_menu"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+        <item
+            android:id="@+id/fd_list_menu"
+            android:icon="@drawable/pp_friend"
+            android:title="Friend List" />
+        <item
+            android:id="@+id/add_fd_menu"
+            android:icon="@drawable/pp_add"
+            android:title="Add friend" />
+
+    </group>
+
+    <item android:title="Section2">
+        <menu android:checkableBehavior="single">
+            <group >
+                <item
+                    android:id="@+id/settings_menu"
+                    android:icon="@drawable/pp_settings"
+                    android:title="Settings"/>
+
+                <item
+                    android:id="@+id/log_out_menu"
+                    android:icon="@drawable/pp_log_out"
+                    android:title="Logout"/>
+            </group>
+        </menu>
+    </item>
+</menu>

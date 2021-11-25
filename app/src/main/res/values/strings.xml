@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fd manager final</string>
+    <string name="navigation_deawer_open">open</string>
+    <string name="navigation_deawer_close">close</string>
+</resources>

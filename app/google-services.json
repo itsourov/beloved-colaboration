@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237977905280",
+    "project_id": "beloved-e393f",
+    "storage_bucket": "beloved-e393f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237977905280:android:04acd57e8a5da084f29e65",
+        "android_client_info": {
+          "package_name": "net.sourov.fdmanagerfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237977905280-l3he05a35a88cf9gmr8enm1v6nh689k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1aCK5qOZQ3G5_g5sUQAA12bh_pRU8on8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237977905280-l3he05a35a88cf9gmr8enm1v6nh689k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
